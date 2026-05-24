@@ -1,3 +1,5 @@
+there is also submodules folder from original FastGS repo that is not here
+
 Minimal FastGS hybrid pipeline.
 
 1. Precompute mesh support:
